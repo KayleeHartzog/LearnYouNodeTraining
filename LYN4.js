@@ -12,7 +12,7 @@ function getInFile(callback) {
     });
 
 }
-//var inFile = fs.readFile(process.argv[2]).toString();
+
 function displayCount() {
     console.log(count)
 }
