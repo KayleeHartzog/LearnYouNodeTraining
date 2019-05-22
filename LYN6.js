@@ -1,5 +1,4 @@
 var myModule = require('./myModule.js')
-// let fileArray = []
 let myDirectory = process.argv[2]
 let extension = process.argv[3]
 
